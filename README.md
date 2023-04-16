@@ -1,5 +1,10 @@
 # DataLogger
 
-This PCB consist of a pressure sensor -> BMP180, Acclerometer & Gyroscope -> MPU 6050 whose data are store in SD card, with the help of a SD CardModule.
-
-Arduino NANO is used for the data read and store.  
+This PCB consist of :
+- a pressure sensor -> BMP180
+- Acclerometer & Gyroscope -> MPU 6050 
+- SD Card Module
+- Arduino NANO  
+- 12V DC power supply
+- 2 layer PCB
+- 128MB external Flash with spi
